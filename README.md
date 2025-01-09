@@ -1,5 +1,5 @@
 Hey, I am Divyraj Saini.
-I am a sophomoore in Indian Institute of Information Technology, Guwahati.
+I am a Junior in Indian Institute of Information Technology, Guwahati.
 I persue Machine Learning and Deep Learning for application and research purposes.
 Currently learning GAN's, Visions.
 I’m looking to collaborate on projects related to research in Artificial Intelligence/Machine Learning.
