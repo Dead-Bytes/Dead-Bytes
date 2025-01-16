@@ -1,4 +1,4 @@
-Hey, I am Divyraj Saini.
+Hey.
 I am a Junior in Indian Institute of Information Technology, Guwahati.
 I persue Machine Learning and Deep Learning for application and research purposes.
 Currently learning EDGEai.
