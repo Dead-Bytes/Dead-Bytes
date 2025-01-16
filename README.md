@@ -1,5 +1,4 @@
 Hey.
-I am a Junior in Indian Institute of Information Technology, Guwahati.
 I persue Machine Learning and Deep Learning for application and research purposes.
 Currently learning EDGEai.
 I’m looking to collaborate on projects related to research in Artificial Intelligence/Machine Learning.
