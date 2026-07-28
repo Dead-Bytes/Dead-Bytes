@@ -31,7 +31,7 @@ the simplest, most elegant way to compute this?
 Most of my production work is under NDA — not much to show in repos here, but 
 happy to talk architecture and design decisions directly.
 
-📄 [Resume](link) · 💼 [LinkedIn](link) · ✉️ divyraj.saini22b@iiitg.ac.in
+ 💼 [LinkedIn]([link](https://www.linkedin.com/in/dead-bytes-658479209/)) · ✉️ divyraj.saini22b@iiitg.ac.in
 <!---
 Dead-Bytes/Dead-Bytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
