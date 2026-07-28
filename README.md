@@ -20,6 +20,12 @@ Stellar, EVM, DePIN, and payments infra, a decentralized asset manager
 (Top 5, Mantle Global Hackathon), and a founding engineer role that raised 
 funding building on-chain systems from scratch.
 
+⚙️ **Where I am now** — Back in AI, but as an engineer, not a researcher. 
+Building the real, unglamorous plumbing that agentic systems actually run 
+on — and slowly learning that good software design is its own kind of 
+elegance, maybe the truest test of it. Less about proving something works 
+once, more about making it keep working.
+
 ⚛️ **What's next** — Quantum algorithms. Same pursuit, new frontier: what's 
 the simplest, most elegant way to compute this?
 
@@ -31,7 +37,7 @@ the simplest, most elegant way to compute this?
 Most of my production work is under NDA — not much to show in repos here, but 
 happy to talk architecture and design decisions directly.
 
- 💼 [LinkedIn]([link](https://www.linkedin.com/in/dead-bytes-658479209/)) · ✉️ divyraj.saini22b@iiitg.ac.in
+💼 [LinkedIn](https://www.linkedin.com/in/dead-bytes-658479209/) · ✉️ divyraj.saini22b@iiitg.ac.in
 <!---
 Dead-Bytes/Dead-Bytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
