@@ -1,4 +1,4 @@
-### Hey, I'm Divy 👋
+### Hey, I'm Dead-bytes 👋
 
 I believe we're artists before we're engineers. Every piece of complicated 
 code has its own kind of beauty — but there's always a simpler version 
