@@ -30,7 +30,9 @@ once, more about making it keep working.
 the simplest, most elegant way to compute this?
 
 **Background:**
-- Research internship, IBM Research (NLP benchmarking → EMNLP-25 submission)
+- Research internship, IBM Research (NLP benchmarking → EMNLP-25 submission), 
+  published — *Light-weight Adaptive Dual-Threshold based Checkpointing for 
+  IMCs*, IEEE-iSES 2025
 - Founding engineer, early-stage startup (MVP → funded beta)
 - Currently building production AI infra at ByteBell.ai
 
