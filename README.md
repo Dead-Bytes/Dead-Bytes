@@ -12,7 +12,7 @@ work on efficiency/checkpointing systems (IEEE-iSES 2025). This was the plan.
 
 🤖 **Where I fell instead** — Somewhere in the middle of that, I found I loved 
 *building* more than proving. Took that same instinct for elegance and pointed 
-it at shipping: production ingestion pipelines, agentic LLM orchestration, 
+it at shipping: production data pipelines, agentic LLM orchestration, 
 systems that actually run instead of just getting published.
 
 🌐 **Where I tested it fast** — Web3 became the proving ground: MVPs across 
